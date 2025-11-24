@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
+[# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
 # IAPR-5- Module 5 - FoC
 ## 9. Implementation of recursion.
 ## 10. Implementation of programs using pointer arithmetic.
@@ -345,3 +345,4 @@ int main() {
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
+](https://github.com/Hari260507/19AI304-Fundamentals-of-C-Programming-2025-Odd-M5/blob/main/README.md)
